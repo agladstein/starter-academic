@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Researcher"
+  company = "University of North Carolina, Chapel Hill"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Chapel Hill, NC"
+  date_start = "2018-08-28"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = "Project: Using Deep Learning to infer demographic history from genomic data"
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Student"
+  company = "University of Arizona"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Tucson, AZ"
+  date_start = "2011-08-10"
+  date_end = "2018-06-18"
+  description = "Dissertation: Inference of recent demographic history of population isolates using genome-wide high density SNP arrays and whole genome sequences"
+
+[[experience]]
+  title = "Lab Technician Intern"
+  company = "Russian Academy of Medical Sciences"
+  company_url = ""
+  location = "Moscow, Russia"
+  date_start = "2009-01-10"
+  date_end = "2009-12-18"
+  description = "Laboratory of Population Genetics"
+  
+[[experience]]
+  title = "Exchange Student"
+  company = "Moscow State University"
+  company_url = ""
+  location = "Moscow, Russia"
+  date_start = "2009-09-10"
+  date_end = "2009-12-18"
+  description = "Department of Genetics"
+    
+[[experience]]
+  title = "Undergraduate Student"
+  company = "Beloit College"
+  company_url = ""
+  location = "Beloit, WI"
+  date_start = "2007-08-10"
+  date_end = "2011-05-18"
+  description = "Double major in Mathematical Biology and Russian"
 
 +++
+
