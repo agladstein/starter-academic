@@ -28,9 +28,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-04T21:25:38.585639Z'
+publishDate: '2020-09-04T22:28:41.763335Z'
 publication_types:
 - 2
-abstract: ''
+abstract: The Ashkenazim are awell-studied populationwith a dynamic and unique history.
+  The spread of Jew- ish populations from the Middle East to locations in the Diaspora
+  in the past 2000 years repre- sents a microcosm of the evolutionary processes affecting
+  modern humans as they dispersed out of Africa (e.g. founder effects, migrations,
+  admix- ture and adaptation). Ashkenazim – Jews who trace their ancestry to founders
+  who moved to the Rhine Valley in the fourth century – are no exception. Recent studies
+  both support and refute long-standing hypotheses of Ashkenazi origins. Together,
+  the results Strengthen the inferences that Ashkenazi Jews trace their ancestry to
+  a genet- ically diverse population in the Middle East that underwent a series of
+  founder events – reducing genetic diversity relative to the ancestral population
+  – and that subsequently experienced significant gene flow during the period of Ashkenazi
+  residency in Europe.
 publication: '*eLS*'
+doi: 10.1002/9780470015902.a0020818.pub2
 ---

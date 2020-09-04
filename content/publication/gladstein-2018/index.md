@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-04T21:25:38.162477Z'
+publishDate: '2020-09-04T22:28:41.318638Z'
 publication_types:
 - 2
 abstract: Genomic simulations are an important technique used in population genetics

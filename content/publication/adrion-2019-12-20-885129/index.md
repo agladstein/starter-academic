@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-04T21:25:37.719395Z'
+publishDate: '2020-09-04T22:28:40.824672Z'
 publication_types:
 - 2
 abstract: The explosion in population genomic data demands ever more complex modes
